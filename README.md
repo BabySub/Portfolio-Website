@@ -1,5 +1,4 @@
 
-
 # 🌐 Subham Subhra Bordoloi — Portfolio Website
 
 Welcome to my personal **React + TypeScript portfolio**, built with **Vite** for blazing-fast performance and a modern developer experience.  
@@ -98,5 +97,9 @@ npm run deploy
 ---
 
 ⭐ **If you like this project, consider giving it a star on GitHub!**
+
+```
+
+---
 
 ```
