@@ -1,0 +1,26 @@
+/* =========================================
+   Global Overrides & Animations
+   ========================================= */
+
+/* Logo spin animation */
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* Apply spin only if motion is allowed */
+@media (prefers-reduced-motion: no-preference) {
+  .logo-spin {
+    animation: logo-spin 20s linear infinite;
+  }
+}
+
+/* Optional: smooth scrolling across app */
+html {
+  scroll-behavior: smooth;
+}
+
