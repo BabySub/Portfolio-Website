@@ -10,7 +10,7 @@ const projects = [
     title: "Route-Note",
     description:
       "Route Note is a dynamic travel journaling web app built with React.js and Firebase. Users can log in securely, pin locations on a map, attach photos, stays, and notes — all stored persistently in Firebase.",
-    image: "../src/assets/Route Note.jpg",
+    image: "/Route Note.jpg",
     technologies: ["HTML", "CSS", "JavaScript", "Firebase"],
     githubUrl: "https://github.com/BabySub/Route-Note",
     liveUrl: "https://babysub.github.io/Route-Note/",
@@ -20,7 +20,7 @@ const projects = [
     title: "Contact Management System",
     description:
       "A Python-based contact management system that uses a JSON file for storage. It allows users to add, edit, delete, and search contacts while ensuring data is saved persistently.",
-    image: "../src/assets/Contact.jpg",
+    image: "/Contact.jpg",
     technologies: ["Python", "JSON"],
     githubUrl: "https://github.com/BabySub/PYTHON_contactmanagement",
   },
@@ -29,7 +29,7 @@ const projects = [
     title: "Todos-List",
     description:
       "A React-based web app that helps organize tasks with a clean UI. Built with reusable components and state management for smooth task handling.",
-    image: "../src/assets/Todos List.jpg",
+    image: "/Todos List.jpg",
     technologies: ["React JS", "HTML", "CSS", "JavaScript"],
     githubUrl: "",
   },
@@ -38,7 +38,7 @@ const projects = [
     title: "Home Automation",
     description:
       "IoT-based smart home automation system using Arduino and relay modules, enabling voice-controlled appliances for efficient and simplified yet modernized living.",
-    image: "../src/assets/Home automation.jpg", 
+    image: "/Home automation.jpg", 
     technologies: ["Arduino", "IoT", "Embedded Systems"],
   },
   {
@@ -46,7 +46,7 @@ const projects = [
     title: "IoT Mini Projects",
     description:
       "A collection of IoT-based projects such as smart lighting, distance monitoring, and automated devices built using Arduino IDE and Wokwi.",
-    image: "../src/assets/IoT.jpg",
+    image: "/IoT.jpg",
     technologies: ["Arduino IDE", "Wokwi", "Sensors"],
   },
 {
@@ -54,7 +54,7 @@ const projects = [
   title: "Figma Web Design (Footwear Website)",
   description:
     "UI/UX design prototype created in Figma for a modern footwear e-commerce site with responsive and minimal design elements.",
-  image: "../src/assets/F1.png",
+  image: "/F1.png",
   technologies: ["Figma", "UI/UX"],
 },
 {
@@ -62,7 +62,7 @@ const projects = [
   title: "Figma Web Design (Game Console Website)",
   description:
     "High-fidelity Figma prototype for a gaming console product landing page with interactive layouts and modern design principles.",
-  image: "../src/assets/F3.png",
+  image: "/F3.png",
   technologies: ["Figma", "UI/UX"],
 },
 {
@@ -70,7 +70,7 @@ const projects = [
   title: "Glassmorphism Icons Design",
   description:
     "A collection of modern UI icons designed with the Glassmorphism effect for futuristic web and mobile applications.",
-  image: "../src/assets/F2.png",
+  image: "/F2.png",
   technologies: ["Figma", "UI/UX"],
 },
   
