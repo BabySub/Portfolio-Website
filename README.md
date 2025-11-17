@@ -22,11 +22,6 @@ This is my personal portfolio built using React, TypeScript, and Vite. It showca
 * Version Control: Git and GitHub
 
 
-## Live Website
-
-[https://babysub.github.io/Portfolio-Website/](https://babysub.github.io/Portfolio-Website/)
-
-
 ## Contact
 
 Email: [subhamsubhra11@gmail.com](mailto:subhamsubhra11@gmail.com)
