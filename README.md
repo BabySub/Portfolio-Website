@@ -25,8 +25,7 @@ This is my personal portfolio built using React, TypeScript, and Vite. It showca
 ## Contact
 
 Email: [subhamsubhra11@gmail.com](mailto:subhamsubhra11@gmail.com)
-LinkedIn: linkedin.com/in/your-profile
-Portfolio: babysub.github.io/Portfolio-Website
+LinkedIn: linkedin.com/in/subham-subhra-bordoloi/
 
 
 ## Planned Improvements
